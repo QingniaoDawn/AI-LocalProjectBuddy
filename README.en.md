@@ -81,6 +81,15 @@ Close the app and the connection is gone — the AI loses access immediately.
 - Writes and patches create `.bak` backups by default — rename back to restore.
 - SmartScreen may warn about an unsigned exe: "More info → Run anyway".
 
+## ⚖️ Usage Disclaimer
+
+By downloading, opening, or using this software you acknowledge that you have read, understood, and agree to the following (full terms in [LICENSE.txt](LICENSE.txt)):
+
+- **Voluntary use**: This software is free and obtained voluntarily. Downloading, opening, or running it means you voluntarily accept this disclaimer and the license agreement in full; if you do not agree, stop using it and delete it.
+- **Account risk is yours**: This software runs locally on your own PC and interacts only with the web AI services **you designate**. Your accounts on OpenAI, Google, xAI or any other platform are your own assets — the author, this GitHub project and its publisher are in no way responsible for platform policy changes, metering limits, risk control, account bans, or any account-related consequences. Evaluate the risks and follow each platform's terms of service yourself.
+- **Operations are real**: reads, writes, patches and commands the AI performs under your authorization really do affect your computer. Choose the exposed folder and permission tier carefully, and make use of the built-in `.bak` backups.
+- **No warranty**: Provided "AS IS" without warranty of any kind; the author is not liable for any direct or indirect damages arising from using (or being unable to use) this software.
+
 ## 💗 Support the author
 
 This tool is a one-person, after-hours project by **Qingniao (青鸟)** — completely free, no ads, no data collection. If it helps you, buy the author a cup of tea via the WeChat QR below (any amount):

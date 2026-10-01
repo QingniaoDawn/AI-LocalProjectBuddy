@@ -51,12 +51,20 @@ Copyright (c) 2026 Qingniao. All rights reserved.
     仅可用于安全研究与事实陈述，不得用于制作竞争性产品。
 
 ----------------------------------------------------------------
-第五条 用户内容与隐私
+第五条 用户声明、账号风险与隐私
 ----------------------------------------------------------------
 5.1 本软件在您的计算机本地运行。您通过本软件开放给人工智能
     服务商访问的内容，由您自行决定并自担风险。
 5.2 本软件不收集、不上传您的任何个人信息与文件内容；
     隧道连接仅用于您主动授权的 AI 服务调用。
+5.3 【自愿使用】本软件为免费自愿获取。您下载、打开或运行
+    本软件，即视为您已阅读、理解并自愿接受本协议全部条款；
+    如不同意，应立即停止使用并删除本软件。
+5.4 【账号风险自担】您在 OpenAI、Google、xAI 等第三方平台
+    的账号属于您自身资产。因第三方平台政策调整、计量限制、
+    风控、封禁或其他任何与账号相关的后果，均与本软件、作者、
+    本 GitHub 项目及其发布者无关，由您自行评估风险并遵守
+    相关平台的服务条款。
 
 ----------------------------------------------------------------
 第六条 免责声明与责任限制
@@ -95,7 +103,12 @@ free of charge for personal, non-commercial purposes. Selling,
 paid bundling, or removing attribution is prohibited. Reverse
 engineering is not allowed, EXCEPT for security-audit purposes,
 which the author explicitly permits. The software contains no
-backdoor and collects no user data. Provided "AS IS" without
-warranty of any kind; the author is not liable for any damages
-arising from use of this software.
+backdoor and collects no user data. By downloading, opening or
+running it you voluntarily accept these terms; your accounts on
+third-party AI platforms are your own assets and the author,
+this GitHub project and its publisher are in no way responsible
+for any account-related consequences (platform policies, limits,
+risk control, bans, etc.). Provided "AS IS" without warranty of
+any kind; the author is not liable for any damages arising from
+use of this software.
 ════════════════════════════════════════════════════════════════
