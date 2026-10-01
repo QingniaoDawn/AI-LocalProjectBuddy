@@ -4,10 +4,10 @@
 
 **Let ChatGPT / Gemini / Grok read & write your local project folders — like a native agent**
 
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6)]()
-[![Version](https://img.shields.io/badge/version-v1.0.0-2EA44F)]()
-[![License](https://img.shields.io/badge/license-Freeware-F39C12)]()
-[![Tunnel](https://img.shields.io/badge/tunnel-Cloudflare%20official-F38020)]()
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6)
+![Version](https://img.shields.io/badge/version-v1.0.0-2EA44F)
+![License](https://img.shields.io/badge/license-Freeware-F39C12)
+![Tunnel](https://img.shields.io/badge/tunnel-Cloudflare%20official-F38020)
 
 [中文](README.md) ｜ **English**
 

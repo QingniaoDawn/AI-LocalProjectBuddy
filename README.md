@@ -4,10 +4,10 @@
 
 **让 ChatGPT / Gemini / Grok 像"本地助手"一样，直接读写你电脑上的项目文件夹**
 
-[![Platform](https://img.shields.io/badge/平台-Windows%2010%2F11-0078D6)]()
-[![Version](https://img.shields.io/badge/版本-v1.0.0-2EA44F)]()
-[![License](https://img.shields.io/badge/许可-免费软件(Freeware)-F39C12)]()
-[![Tunnel](https://img.shields.io/badge/隧道-Cloudflare%20官方-F38020)]()
+![Platform](https://img.shields.io/badge/平台-Windows%2010%2F11-0078D6)
+![Version](https://img.shields.io/badge/版本-v1.0.0-2EA44F)
+![License](https://img.shields.io/badge/许可-免费软件(Freeware)-F39C12)
+![Tunnel](https://img.shields.io/badge/隧道-Cloudflare%20官方-F38020)
 
 **简体中文** ｜ [English](README.en.md)
 
