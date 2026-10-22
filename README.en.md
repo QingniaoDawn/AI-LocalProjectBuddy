@@ -5,7 +5,7 @@
 **Let ChatGPT / Gemini / Grok read & write your local project folders — like a native agent**
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6)
-![Version](https://img.shields.io/badge/version-v1.1.1-2EA44F)
+![Version](https://img.shields.io/badge/version-v1.1.2-2EA44F)
 ![License](https://img.shields.io/badge/license-Freeware-F39C12)
 ![Tunnel](https://img.shields.io/badge/tunnel-Cloudflare%20official-F38020)
 
