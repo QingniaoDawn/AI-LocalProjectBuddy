@@ -5,7 +5,7 @@
 **Let ChatGPT / Gemini / Grok read & write your local project folders — like a native agent**
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6)
-![Version](https://img.shields.io/badge/version-v1.0.0-2EA44F)
+![Version](https://img.shields.io/badge/version-v1.1.1-2EA44F)
 ![License](https://img.shields.io/badge/license-Freeware-F39C12)
 ![Tunnel](https://img.shields.io/badge/tunnel-Cloudflare%20official-F38020)
 
@@ -88,15 +88,8 @@ By downloading, opening, or using this software you acknowledge that you have re
 - **Voluntary use**: This software is free and obtained voluntarily. Downloading, opening, or running it means you voluntarily accept this disclaimer and the license agreement in full; if you do not agree, stop using it and delete it.
 - **Account risk is yours**: This software runs locally on your own PC and interacts only with the web AI services **you designate**. Your accounts on OpenAI, Google, xAI or any other platform are your own assets — the author, this GitHub project and its publisher are in no way responsible for platform policy changes, metering limits, risk control, account bans, or any account-related consequences. Evaluate the risks and follow each platform's terms of service yourself.
 - **Operations are real**: reads, writes, patches and commands the AI performs under your authorization really do affect your computer. Choose the exposed folder and permission tier carefully, and make use of the built-in `.bak` backups.
+- **No resale**: This software is **free forever** and has **never** been licensed to any shop, platform or individual for sale. If you paid money for it on a marketplace or second-hand platform, ask the seller for a **refund** — and feel free to report the seller to the author.
 - **No warranty**: Provided "AS IS" without warranty of any kind; the author is not liable for any direct or indirect damages arising from using (or being unable to use) this software.
-
-## 💗 Support the author
-
-This tool is a one-person, after-hours project by **Qingniao (青鸟)** — completely free, no ads, no data collection. If it helps you, buy the author a cup of tea via the WeChat QR below (any amount):
-
-<p align="center"><img src="docs/images/reward-qr.jpg" width="230" alt="WeChat reward QR"></p>
-
-> **This software is free forever and has never been licensed for resale.** If you paid money for it, ask the seller for a refund.
 
 ## 📖 Documentation
 
