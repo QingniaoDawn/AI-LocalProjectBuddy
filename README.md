@@ -5,7 +5,7 @@
 **让 ChatGPT / Gemini / Grok 像"本地助手"一样，直接读写你电脑上的项目文件夹**
 
 ![Platform](https://img.shields.io/badge/平台-Windows%2010%2F11-0078D6)
-![Version](https://img.shields.io/badge/版本-v1.1.3-2EA44F)
+![Version](https://img.shields.io/badge/版本-v1.1.4-2EA44F)
 ![License](https://img.shields.io/badge/许可-免费软件(Freeware)-F39C12)
 ![Tunnel](https://img.shields.io/badge/隧道-Cloudflare%20官方-F38020)
 
@@ -51,7 +51,7 @@
 
 ### 第 1 步：下载
 
-到 [**Releases 发布页**](../../releases) 下载最新版压缩包（如 `LocalProjectBuddy-v1.1.3-win-x64.zip`），解压到任意文件夹。
+到 [**Releases 发布页**](../../releases) 下载最新版压缩包（如 `LocalProjectBuddy-v1.1.4-win-x64.zip`），解压到任意文件夹。
 
 > 建议顺手校验一下文件完整性：发布页提供了 zip 的 **SHA-256 校验值**，在 PowerShell 里运行
 > `Get-FileHash 文件名.zip` 比对一致，说明文件没有被篡改过。
